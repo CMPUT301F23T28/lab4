@@ -8,5 +8,5 @@ public class Parallelepiped extends Shape {
         this.x=x;
         this.y= y;
     }
-    
+
 }
