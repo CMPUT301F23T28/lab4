@@ -1,7 +1,7 @@
 package com.example.lab4;
 
 public class Square extends Shape{
-    public Square(int x, int y) {
+    public Square(int x, int y, String color) {
         super(x, y);
     }
 }
