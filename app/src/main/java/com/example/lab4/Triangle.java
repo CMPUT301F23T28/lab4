@@ -1,10 +1,9 @@
 package com.example.lab4;
 
-public abstract class  Shape {
+public class Triangle extends Shape {
     public int x;
     public int y;
-    public String color = "yellow";
-    public Shape(int x, int y) {
+    public Triangle(int x, int y) {
         this.x= x;
         this.y = y;
     }
